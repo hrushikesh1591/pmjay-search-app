@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PMJAY Package Search</title>
+</head>
+<body>
+  <h2>Search PMJAY Procedures</h2>
+  <input type="text" id="queryInput" placeholder="e.g. fracture, cholecystectomy..." />
+  <button onclick="search()">Search</button>
+  <div id="results"></div>
+
+  <script>
+    async function search() {
+      const query = document.getElementById("queryInput").value;
+      const response = await fetch('/search', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ query: query })
+      });
+
+      const data = await response.json();
+      const resultDiv = document.getElementById("results");
+      resultDiv.innerHTML = "";
+
+      if (data.length === 0) {
+        resultDiv.innerHTML = "<p>No results found.</p>";
+      } else {
+        data.forEach(item => {
+          resultDiv.innerHTML += `
+            <div style="margin:10px 0;padding:10px;border:1px solid #ccc;">
+              <strong>${item.procedure_name}</strong><br/>
+              Specialty: ${item.specialty}<br/>
+              Code: ${item.procedure_code}<br/>
+              Package Price: ₹${item.package_price || 'N/A'}<br/>
+              Implant: ${item.implant_cost || 'N/A'}<br/>
+              Total Price: ₹${item.total_price || item.package_price || 'N/A'}
+            </div>
+          `;
+        });
+      }
+    }
+  </script>
+</body>
+</html>
