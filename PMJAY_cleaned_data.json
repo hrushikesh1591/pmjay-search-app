@@ -1,0 +1,2580 @@
+[
+  {
+    "specialty": "Burns Management (BM)",
+    "procedure_name": "% Total Body Surface Area Burns (TBSA) - any % (not requiring admission). Needs at least 5-6 dressing",
+    "procedure_code": "BM001A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "Burns Management (BM)",
+    "procedure_name": "% Total Body Surface Area Burns (TBSA): less than 20% in adults and less than 10% in children younger than 12 years. Dressing alone.",
+    "procedure_code": "BM001B",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Burns Management (BM)",
+    "procedure_name": "% Total Body Surface Area Burns (TBSA): 40 % - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are",
+    "procedure_code": "BM003C",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Burns Management (BM)",
+    "procedure_name": "% Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are",
+    "procedure_code": "BM003D",
+    "package_price": 90000
+  },
+  {
+    "specialty": "Burns Management (BM)",
+    "procedure_name": "Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments)",
+    "procedure_code": "BM004A",
+    "package_price": 3000
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "For Mesenteric Thrombosis",
+    "procedure_code": "MC002B",
+    "package_price": 30800
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "For Peripheral vessels",
+    "procedure_code": "MC002C",
+    "package_price": 30800
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "VSD Device Closure",
+    "procedure_code": "MC008A",
+    "package_price": 109900,
+    "implant_cost": "VSD Device - 72,000",
+    "total_price": 109900
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "PDA Device Closure",
+    "procedure_code": "MC009A",
+    "package_price": 55000,
+    "implant_cost": "PDA Device - 30,000",
+    "total_price": 55000
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "Bronchial artery Embolisation (for Haemoptysis)",
+    "procedure_code": "MC018A",
+    "package_price": 32800
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "Temporary Pacemaker implantation",
+    "procedure_code": "MC014A",
+    "package_price": 41300,
+    "implant_cost": "Double Chamber Pacemaker - 75,000"
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "Balloon Atrial Septostomy",
+    "procedure_code": "MC006A",
+    "package_price": 30500,
+    "implant_cost": "Balloon & Accessories"
+  },
+  {
+    "specialty": "Cardiology (MC)",
+    "procedure_name": "Electrophysiological Study",
+    "procedure_code": "MC012A",
+    "package_price": 4025,
+    "implant_cost": "Steerable decapolar catheter, Quadripolar Catheter - 46,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Unifocalization of MAPCA",
+    "procedure_code": "SV001A",
+    "package_price": 100000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Coarctation repair",
+    "procedure_code": "SV001G",
+    "package_price": 130000,
+    "implant_cost": "Dacron Graft - Straight - 30,000",
+    "total_price": 130000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "BT Shunt (inclusives of grafts)",
+    "procedure_code": "SV001H",
+    "package_price": 150000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Single Valve Procedure",
+    "procedure_code": "SV005B",
+    "package_price": 119000,
+    "implant_cost": "Mechanical Valve - Bileaflet - 40,000; Mechanical Valve - Tilting Disc - 28,000; Tissue Valve - 70,000; Mechanical Valve - Bileaflet - 159,000; Mechanical Valve - Tilting Disc - 147,000; Tissue Valve - 189,000 (The implant details listed are likely for various types of valves and may be added to the package price for total cost)"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Ross Procedure",
+    "procedure_code": "SV009A",
+    "package_price": 270000,
+    "implant_cost": "RV - PA Conduit - 120,000",
+    "total_price": 270000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Surgery for Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "procedure_code": "SV010A",
+    "package_price": 119000,
+    "implant_cost": "Mechanical Valve - Bileaflet - 40,000; Mechanical Valve - Tilting Disc - 28,000; Tissue Valve - 70,000 (Implants for other related procedures are also listed, not specifically for HOCM)"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aortic Aneurysm Repair without using Left Heart Bypass",
+    "procedure_code": "SV016D",
+    "package_price": 95500,
+    "implant_cost": "Dacron Graft - Straight - 30,000",
+    "total_price": 95500
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aortic Aneurysm Repair without using Cardiopulmonary bypass (CPB)",
+    "procedure_code": "SV016C",
+    "package_price": 90100,
+    "implant_cost": "Dacron Graft - Straight - 30,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aorto Iliac bypass - U/L",
+    "procedure_code": "SV017A",
+    "package_price": 64500,
+    "implant_cost": "Dacron Graft - Straight - 30,000; PTFE Graft - Straight - 50,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aorto femoral bypass - B/L",
+    "procedure_code": "SV017D",
+    "package_price": 99500,
+    "implant_cost": "Dacron Graft - Bifurcated - 35,000",
+    "total_price": 99500
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Pulmonary Embolectomy / Thromboendarterectomy",
+    "procedure_code": "SV018A",
+    "package_price": 141000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Carotid Body Tumor Excision",
+    "procedure_code": "SV019C",
+    "package_price": 50000,
+    "implant_cost": "Dacron Graft - Straight - 30,000; PTFE Graft - Straight - 50,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Brachial aneurysm repair",
+    "procedure_code": "SV019H",
+    "package_price": 50000,
+    "implant_cost": "Dacron Graft - Straight - 30,000; PTFE Graft - Straight - 50,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aorto - subclavian bypass",
+    "procedure_code": "SV019S",
+    "package_price": 50000,
+    "implant_cost": "Dacron Graft - Straight - 30,000; PTFE Graft - Straight - 50,000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Surgery for Arterial Aneurysm Renal Artery",
+    "procedure_code": "SV019X",
+    "package_price": 70000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Operations for Acquired Arteriovenous Fistual",
+    "procedure_code": "SV019Y",
+    "package_price": 70000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Femoro - Femoral Bypass",
+    "procedure_code": "SV019A",
+    "package_price": 68800,
+    "implant_cost": "PTFE graft small (upto 8 mm) - 30000; PTFE Graft Large (<8mm) - 50000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Femoral - popliteal Bypass",
+    "procedure_code": "SV019K",
+    "package_price": 68800,
+    "implant_cost": "PTFE graft small (upto 8 mm) - 30000; PTFE Graft Large (<8mm) - 50000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Axillo - femoral bypass - U/L",
+    "procedure_code": "SV019P",
+    "package_price": 68800,
+    "implant_cost": "PTFE graft small (upto 8 mm) - 30000; PTFE Graft Large (<8mm) - 50000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Thoracotomy, Thoraco Abdominal Approach",
+    "procedure_code": "SV022A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Lung cyst excision",
+    "procedure_code": "SV023A",
+    "package_price": 45000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Bronchial Repair Surgery for Injuries due to FB",
+    "procedure_code": "SV023E",
+    "package_price": 45000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Pulmonary Resection",
+    "procedure_code": "SV024A",
+    "package_price": 70000
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Mediastinotomy",
+    "procedure_code": "SV035A",
+    "package_price": 28750,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "ASD Closure + Tricuspid procedure",
+    "procedure_code": "SV002C",
+    "package_price": 165000,
+    "implant_cost": "Mandatory Documents (Claim Processing): Detailed discharge summary, Detailed Operative notes, barcode of Implant, if used"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Infundibular PS repair",
+    "procedure_code": "SV002G",
+    "package_price": 165000,
+    "implant_cost": "(same as above)"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "VSD closure + Tricuspid procedure",
+    "procedure_code": "SV003N",
+    "package_price": 206300,
+    "implant_cost": "(similar extensive list)"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Triple valve procedure",
+    "procedure_code": "SV007A",
+    "package_price": 233800,
+    "implant_cost": "Mechanical Valve - Bileaflet - 40000; Mechanical Valve - Tilting Disc - 28000; Tissue Valve - 80000; Valve Ring - Mitral - 35000; Valve Ring - Tricuspid - 35000"
+  },
+  {
+    "specialty": "Cardiothoracic & Vascular Surgery (CTVS) (SV)",
+    "procedure_name": "Aortic Root Replacement Surgery",
+    "procedure_code": "SV014C",
+    "package_price": 23000,
+    "implant_cost": "Composite Aortic Valved conduit - Mechanical - 100000; Dacron Graft - Straight - 30000; Mechanical Valve - Bileaflet - 40000; Mechanical Valve - Tilting Disc - 28000; Tissue Valve - 80000"
+  },
+  {
+    "specialty": "Emergency Room Package (ER)",
+    "procedure_name": "Laceration - Suturing / Dressing",
+    "procedure_code": "ER001A",
+    "package_price": 2000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Pinna surgery for tumour",
+    "procedure_code": "SL001A",
+    "package_price": 8600
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Stapedectomy",
+    "procedure_code": "SL003A",
+    "package_price": 18000,
+    "implant_cost": "Piston for Stapedectomy / Tympanotomy - 5000",
+    "total_price": 18000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Tympanotomy",
+    "procedure_code": "SL003B",
+    "package_price": 18000,
+    "implant_cost": "Piston for Stapedectomy / Tympanotomy - 5000",
+    "total_price": 18000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Simple",
+    "procedure_code": "SL004A",
+    "package_price": 28000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Endoscopic DCR",
+    "procedure_code": "SL006A",
+    "package_price": 19300
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Epistaxis treatment - packing",
+    "procedure_code": "SL007A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Branchial sinus excision",
+    "procedure_code": "SL018D",
+    "package_price": 15300
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Branchial fistula excision",
+    "procedure_code": "SL018E",
+    "package_price": 15300
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Removal of Ranula",
+    "procedure_code": "SL022B",
+    "package_price": 9000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Removal of Submandibular Lymph node",
+    "procedure_code": "SL022C",
+    "package_price": 9000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Rigid laryngoscopy - Diagnostic + / - biopsy",
+    "procedure_code": "SL023A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Rigid bronchoscopy - Diagnostic + / - biopsy",
+    "procedure_code": "SL023B",
+    "package_price": 7000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Comprehensive Pharyngeal diverticulum excision",
+    "procedure_code": "SL027D",
+    "package_price": 18800
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Deep neck abscess drainage/ Post trauma neck exploration",
+    "procedure_code": "SL028A",
+    "package_price": 16800
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Orbital decompression",
+    "procedure_code": "SL029C",
+    "package_price": 34500,
+    "implant_cost": "Fibrin Glue - 9000",
+    "total_price": 34500
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Craniofacial resection",
+    "procedure_code": "SL029D",
+    "package_price": 34500,
+    "implant_cost": "Fibrin Glue - 9000",
+    "total_price": 34500
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Subtotal petrosectomy",
+    "procedure_code": "SL031A",
+    "package_price": 33700,
+    "implant_cost": "Fibrin Glue - 9000",
+    "total_price": 33700
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Closed reduction and Intermaxillary fixation for fracture of mandible",
+    "procedure_code": "SL033D",
+    "package_price": 9200
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Open reduction and internal fixation of maxilla / mandible / zygoma",
+    "procedure_code": "SL034A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Microlaryngeal surgery with or without laser",
+    "procedure_code": "SL024A",
+    "package_price": 17000
+  },
+  {
+    "specialty": "ENT (Otorhinolaryngology) (SL)",
+    "procedure_name": "Open sinus surgery (Open Sinus Surgery (Single/Multiple Sinuses))",
+    "procedure_code": "SL012A",
+    "package_price": 16200
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Severe sepsis",
+    "procedure_code": "MG002A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Dengue fever",
+    "procedure_code": "MG004A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Dengue hemorrhagic fever",
+    "procedure_code": "MG004B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Dengue shock syndrome",
+    "procedure_code": "MG004C",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Leptospirosis",
+    "procedure_code": "MG008A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Dysentery",
+    "procedure_code": "MG011A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Visceral leishmaniasis",
+    "procedure_code": "MG015A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Pleural tuberculosis",
+    "procedure_code": "MG020B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Chronic pancreatitis",
+    "procedure_code": "MG033B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Acute pancreatitis",
+    "procedure_code": "MG033A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Congestive heart failure",
+    "procedure_code": "MG038A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Due to any cause (pneumonia, asthma, COPD, ARDS, foreign body, poisoning, head injury etc.)",
+    "procedure_code": "MG040C",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Renal colic",
+    "procedure_code": "MG044A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "AKI / Renal failure",
+    "procedure_code": "MG045A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hydrocephalus",
+    "procedure_code": "MG051A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Neuromuscular disorders",
+    "procedure_code": "MG056A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hypocalcemia",
+    "procedure_code": "MG060B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hyperkalaemia",
+    "procedure_code": "MG060E"
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hypokalaemia",
+    "procedure_code": "MG060F"
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hyponatremia",
+    "procedure_code": "MG060C",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Anaphylaxis",
+    "procedure_code": "MG066A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Acute organophosphorus poisoning",
+    "procedure_code": "MG071A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Other poisonings",
+    "procedure_code": "MG071B",
+    "package_price": 0
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Peritoneal Dialysis",
+    "procedure_code": "MG072B",
+    "package_price": 1500
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Acute Haemodialysis",
+    "procedure_code": "MG072C",
+    "package_price": 1950
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Plasmapheresis",
+    "procedure_code": "MG073A",
+    "package_price": 2000
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "CRRTCVVHDF",
+    "procedure_code": "MG077A",
+    "package_price": 35000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Alcoholic Liver Disease",
+    "procedure_code": "MG078A"
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Peripheral Arterial Thrombosis",
+    "procedure_code": "MG079A"
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Acute exacerbation of COPD",
+    "procedure_code": "MG029A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Lung abscess",
+    "procedure_code": "MG019A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Bronchiectasis",
+    "procedure_code": "MG027A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Acute bronchitis",
+    "procedure_code": "MG028A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Asthma Acute asthmatic attack",
+    "procedure_code": "MG039A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Pneumothorax",
+    "procedure_code": "MG055A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hypoglycemia",
+    "procedure_code": "MG057A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Diabetic ketoacidosis",
+    "procedure_code": "MG059A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Atrial Fibrillation",
+    "procedure_code": "MG036A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Hypertensive emergencies",
+    "procedure_code": "MG063A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Systematic lupus erythematosus (SLE)/ Diffuse alveolar hemmorhage associated with SLE",
+    "procedure_code": "MG068A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Whole Blood transfusion",
+    "procedure_code": "MG074A",
+    "package_price": 2000
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Arrhythmia",
+    "procedure_code": "MG081A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Fungal Meningitis",
+    "procedure_code": "MG089A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Autoimmune encephalitis - Plasmapheresis",
+    "procedure_code": "MG090A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Myasthenic crisis - Immunoglobulins (IVIG)",
+    "procedure_code": "MG092B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Myasthenic crisis (Plasmapheresis)",
+    "procedure_code": "MG093A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Intercostal drainage",
+    "procedure_code": "MG096A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Endobronchial Ultrasound guided fine needle",
+    "procedure_code": "MG097A",
+    "package_price": 15700
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Bronchoscopy",
+    "procedure_code": "MG096A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Pleural Effusion",
+    "procedure_code": "MG0111A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Moyamoya revascularization",
+    "procedure_code": "MG0117A",
+    "package_price": 2100
+  },
+  {
+    "specialty": "General Medicine (MG)",
+    "procedure_name": "Single event multiple level surgery for spasticity management in cerebral palsy",
+    "procedure_code": "MG0120C",
+    "package_price": 40000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Pericardiocentesis",
+    "procedure_code": "MC019A",
+    "package_price": 12100
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Oesophagectomy",
+    "procedure_code": "SG001A",
+    "package_price": 28300
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Duodenal Perforation",
+    "procedure_code": "SG007B",
+    "package_price": 18500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Pyloroplasty",
+    "procedure_code": "SG008A",
+    "package_price": 14000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "CystoJejunostomy - Lap.",
+    "procedure_code": "SG011B",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Cystogastrostomy - Open",
+    "procedure_code": "SG011C",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Open",
+    "procedure_code": "SG017A",
+    "package_price": 11000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Lap.",
+    "procedure_code": "SG017B",
+    "package_price": 11000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Total Colectomy",
+    "procedure_code": "SG020B",
+    "package_price": 23000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Hemi colectomy",
+    "procedure_code": "SG021A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Closure of stoma",
+    "procedure_code": "SG024A",
+    "package_price": 14500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Sigmoid Resection",
+    "procedure_code": "SG025A",
+    "package_price": 21500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Rectal Polyp Excision",
+    "procedure_code": "SG028A",
+    "package_price": 9600
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Anterior Resection of rectum",
+    "procedure_code": "SG029A",
+    "package_price": 28500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Procedure for Fissure in Ano",
+    "procedure_code": "SG031A",
+    "package_price": 8000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "without Stapler",
+    "procedure_code": "SG032A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Exploratory Laparotomy",
+    "procedure_code": "SG035A",
+    "package_price": 10000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Closure of Burst Abdomen",
+    "procedure_code": "SG036A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Without Exploration of CBD - Open",
+    "procedure_code": "SG039A",
+    "package_price": 22800
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "With Exploration of CBD - Open",
+    "procedure_code": "SG039B",
+    "package_price": 22800
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Lap.",
+    "procedure_code": "SG040B",
+    "package_price": 10000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Operation of Choledochal Cyst",
+    "procedure_code": "SG041A",
+    "package_price": 24500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Distal Pancreatectomy with Pancreatico Jejunostomy",
+    "procedure_code": "SG044A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Repair of Incisional Hernia",
+    "procedure_code": "SG052A",
+    "package_price": 35000,
+    "implant_cost": "Mesh - 30 X 30 - 15000 or Mesh - 15 X 15 - 5000",
+    "total_price": 35000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Hiatus Hernia Repair - Open",
+    "procedure_code": "SG053A",
+    "package_price": 23500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Single Cyst",
+    "procedure_code": "SG054A",
+    "package_price": 2000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Multiple Cysts",
+    "procedure_code": "SG054B",
+    "package_price": 7000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Epididymal Nodule excision",
+    "procedure_code": "SG057B",
+    "package_price": 4600
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Vasovasostomy",
+    "procedure_code": "SG058A",
+    "package_price": 12000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Wedge Excision",
+    "procedure_code": "SG062A",
+    "package_price": 19000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Wedge Excision and Vermilionectomy",
+    "procedure_code": "SG062B",
+    "package_price": 23800
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Thymectomy",
+    "procedure_code": "SG072A",
+    "package_price": 28000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Sympathectomy",
+    "procedure_code": "SG073A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Excision Mammary Fistula",
+    "procedure_code": "SG076A",
+    "package_price": 14500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Intercostal drainage Only",
+    "procedure_code": "SG077A",
+    "package_price": 4800
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Thoracoscopic",
+    "procedure_code": "SG081A",
+    "package_price": 27500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Open",
+    "procedure_code": "SG081B",
+    "package_price": 27500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Drainage of Abscess",
+    "procedure_code": "SG084A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Lipoma Excision",
+    "procedure_code": "SG085A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Flap Reconstructive Surgery",
+    "procedure_code": "SG087A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Free Grafts - Wolfe Grafts",
+    "procedure_code": "SG088A",
+    "package_price": 14000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "AV Fistula without prosthesis",
+    "procedure_code": "SG094A",
+    "package_price": 6000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Management of Varicose Veins",
+    "procedure_code": "SG095A",
+    "package_price": 14000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Stoma Management follow up of Ileostomy",
+    "procedure_code": "SG097A",
+    "package_price": 4500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Stoma Management follow up of Colostomy",
+    "procedure_code": "SG097B",
+    "package_price": 4500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "PTBD - Percutaneous Transhepatic Biliary Drainage",
+    "procedure_code": "SG099A",
+    "package_price": 10000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Feeding Jejunostomy",
+    "procedure_code": "SG012A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Colostomy",
+    "procedure_code": "SG023A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Bypass - Inoperable Pancreas",
+    "procedure_code": "SG043A",
+    "package_price": 62500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Pyloromyotomy",
+    "procedure_code": "SG009A",
+    "package_price": 37500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Inguinal Node (dissection) - U/L",
+    "procedure_code": "SG060A",
+    "package_price": 19800
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Gastrectomy Bleeding Ulcer - Partial Gastrectomy without Vagotomy",
+    "procedure_code": "SG003A",
+    "package_price": 62500
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Groin Hernia Repair Inguinal - Lap.",
+    "procedure_code": "SG050B",
+    "package_price": 20000,
+    "implant_cost": "Mesh - 6 X 3 - Polypropylene - 1500"
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Groin Hernia Repair Femoral - Open",
+    "procedure_code": "SG050C",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Tissue Reconstruction Flap",
+    "procedure_code": "SG089A",
+    "package_price": 35200
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Operation for Hydrocele (B/L)",
+    "procedure_code": "SG0107A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Cyst / Tumor Excision (Head & Neck region)",
+    "procedure_code": "SG0110A",
+    "package_price": 19000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Excision of Fibrous dysplasia of maxilla and mandible",
+    "procedure_code": "SG0112A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "General Surgery (SG)",
+    "procedure_name": "Surgery for Osteomyelitis of maxilla and mandible",
+    "procedure_code": "SG0113A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "Infectious Diseases (ID)",
+    "procedure_name": "Treatment of systemic fungal infections",
+    "procedure_code": "ID005A"
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Dural AVMs (per sitting) with onyx",
+    "procedure_code": "IN001C",
+    "package_price": 150000
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Dural AVFs (per sitting) with onyx",
+    "procedure_code": "IN001D",
+    "package_price": 150000
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Carotico-cavernous Fistula (CCF) embolization",
+    "procedure_code": "IN004B",
+    "package_price": 150000
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Parent vessel occlusion - Basic",
+    "procedure_code": "IN009A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Vertebroplasty",
+    "procedure_code": "IN010A",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Peripherally inserted central catheter (PICC)",
+    "procedure_code": "IN015A",
+    "package_price": 8900,
+    "implant_cost": "Silicon"
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Lymphatic occlusion of chylous leak",
+    "procedure_code": "IN016A",
+    "package_price": 21300,
+    "implant_cost": "Lipidol + Microcatheter + Coil"
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "PVA particle embolization",
+    "procedure_code": "IN017A",
+    "package_price": 21300
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Angioplasty (arterial)",
+    "procedure_code": "IN025A",
+    "package_price": 35900,
+    "implant_cost": "multiside hole thrombolysis"
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "median branch rhizotomy- CS/Thoracic/LS",
+    "procedure_code": "IN037B",
+    "package_price": 18900
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Endovascular therapy for intracranial aneurysm",
+    "procedure_code": "IN049A",
+    "package_price": 270400
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Retinoblastoma under GA",
+    "procedure_code": "IN053A",
+    "package_price": 90200
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Percutaneous cholecystostomy",
+    "procedure_code": "IN054A",
+    "package_price": 22100
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "PAIR / percutaneous sclerotherapy for Hydatid cyst",
+    "procedure_code": "IN055A",
+    "package_price": 9200
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Percutaneous gastrostomy",
+    "procedure_code": "IN058A",
+    "package_price": 7900,
+    "implant_cost": "Balloon+Metallic stent"
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "EVOH Package AVM (1 vial)",
+    "procedure_code": "IN078A",
+    "package_price": 134200
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Package 3 Coil + Balloon+Stent Package",
+    "procedure_code": "IN080A",
+    "package_price": 221400
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "Percutaneous nephrostomy",
+    "procedure_code": "IN081A",
+    "package_price": 22100
+  },
+  {
+    "specialty": "Interventional Neuroradiology (IN)",
+    "procedure_name": "3 Coil + Balloon Package",
+    "procedure_code": "IN082A",
+    "package_price": 153400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Irinotecan",
+    "procedure_code": "MO003A",
+    "package_price": 10200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Lipodox + Carboplatin",
+    "procedure_code": "MO003B",
+    "package_price": 19800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Carboplatin + Paclitaxel",
+    "procedure_code": "MO003G",
+    "package_price": 16400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Single agent Carboplatin",
+    "procedure_code": "MO003K",
+    "package_price": 7700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin",
+    "procedure_code": "MO003L",
+    "package_price": 4600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Etoposide + Methotrexate + Dactinomycin- Cyclophosphamide + Vincristine",
+    "procedure_code": "MO005A",
+    "package_price": 13300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Dactinomycin",
+    "procedure_code": "MO005D",
+    "package_price": 7700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Docetaxel + Oxaliplatin + Xeloda",
+    "procedure_code": "MO016I",
+    "package_price": 24900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "5 FU",
+    "procedure_code": "MO016C",
+    "package_price": 10400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Imatinib",
+    "procedure_code": "MO020A",
+    "package_price": 19400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Sunitinib",
+    "procedure_code": "MO020B",
+    "package_price": 24400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin",
+    "procedure_code": "MO024B",
+    "package_price": 9800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Carboplatin + Gemcitabine",
+    "procedure_code": "MO024C",
+    "package_price": 15300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO024L",
+    "package_price": 15100
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel",
+    "procedure_code": "MO024M",
+    "package_price": 5700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO024K",
+    "package_price": 8500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Carboplatin",
+    "procedure_code": "MO024O",
+    "package_price": 3000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin",
+    "procedure_code": "MO024P",
+    "package_price": 2600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Sunitinib",
+    "procedure_code": "MO025A",
+    "package_price": 26400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cabozantinib 60 mg od x 1 month every 4 weeks",
+    "procedure_code": "MO025B",
+    "package_price": 14300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Methotrexate + Vinblastin",
+    "procedure_code": "MO026A",
+    "package_price": 7500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Paclitaxel",
+    "procedure_code": "MO026E",
+    "package_price": 13500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Docetaxel",
+    "procedure_code": "MO026F",
+    "package_price": 14400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Gemcitabine",
+    "procedure_code": "MO026C",
+    "package_price": 13400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Methotrexate + Vinblastin + Doxorubicin + Cisplatin",
+    "procedure_code": "MO026I",
+    "package_price": 8300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel",
+    "procedure_code": "MO026K",
+    "package_price": 7100
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "GELOX",
+    "procedure_code": "MO038A",
+    "package_price": 18900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Pomalidomide + Dexamethasone",
+    "procedure_code": "MO042B",
+    "package_price": 6800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Bortezomib + Melphalan + Prednsiolone",
+    "procedure_code": "MO043E",
+    "package_price": 12600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cyclophosphamide + Thalidomide + Dexamethasone",
+    "procedure_code": "MO043A",
+    "package_price": 4500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Thalidomide + Dexamethasone",
+    "procedure_code": "MO043B",
+    "package_price": 4600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Bortezomib + Thalidomide + Dexamethasone",
+    "procedure_code": "MO043G",
+    "package_price": 16500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cytarabine 2 gm / M2 BD for 3 days",
+    "procedure_code": "MO046A",
+    "package_price": 60000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cytarabine 100 mg / M2 7 days + Daunomycin 60 mg / M2 3 days",
+    "procedure_code": "MO046B",
+    "package_price": 96000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Rasburicase, Febuxostat, Allopurinol, Sevelamer",
+    "procedure_code": "MO052A",
+    "package_price": 24000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "5 microgram / kg / day (max 300 microgram per day) for 7 days",
+    "procedure_code": "MO053A",
+    "package_price": 4200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Vinblastin",
+    "procedure_code": "MO055B",
+    "package_price": 1900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Vincristine + Carboplatin",
+    "procedure_code": "MO055A",
+    "package_price": 6500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "PACKER",
+    "procedure_code": "MO056A",
+    "package_price": 4900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Vincristine + Actinomycin D",
+    "procedure_code": "MO061A",
+    "package_price": 3000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cyclophosphamide + Doxorubicin + Etoposide + Vincristine + Dactinomycin",
+    "procedure_code": "MO061C",
+    "package_price": 16800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "6 - Mercaptopurine 75mg/m2 daily + Methotrexate 20mg/m2 weekly + Vincristine 1.5mg/m2 monthly + Intrathecal methotrexate 12 mg 3 monthly",
+    "procedure_code": "MO062C",
+    "package_price": 2500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Anastrozole",
+    "procedure_code": "MO001I",
+    "package_price": 16400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Carboplatin + Gemcitabine",
+    "procedure_code": "MO001K",
+    "package_price": 15300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Weekly Paclitaxel for Adjuvant Therapy",
+    "procedure_code": "MO001M",
+    "package_price": 5700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cyclophosphamide + Methotrexate + 5 - FU",
+    "procedure_code": "MO001D",
+    "package_price": 3900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Germ Cell Tumor Carboplatin (AUC 7)",
+    "procedure_code": "MO004A",
+    "package_price": 8100
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Vulvar Cancer Cisplatin",
+    "procedure_code": "MO008B",
+    "package_price": 2600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "5 FU + Mitomycin C",
+    "procedure_code": "MO013A",
+    "package_price": 12100
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Capecitabine + Mitomycin C",
+    "procedure_code": "MO013B",
+    "package_price": 18600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Paclitaxel",
+    "procedure_code": "MO013E",
+    "package_price": 14700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO015D",
+    "package_price": 29900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO015E",
+    "package_price": 29900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Topotecan",
+    "procedure_code": "MO070B",
+    "package_price": 6200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel",
+    "procedure_code": "MO071M",
+    "package_price": 6600
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Gemcitabine",
+    "procedure_code": "MO071J",
+    "package_price": 9900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Etoposide + Carboplatin",
+    "procedure_code": "MO071H",
+    "package_price": 8500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Etoposide + Cisplatin",
+    "procedure_code": "MO071I",
+    "package_price": 7500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Metastatic bone malignancy and multiple myeloma",
+    "procedure_code": "MO002A",
+    "package_price": 3900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO027D",
+    "package_price": 16000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO027G",
+    "package_price": 8500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "LHRH Agonist Leuprolide 22.5 ug every 3 months",
+    "procedure_code": "MO028D",
+    "package_price": 16900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Mitoxantrone + Prednisolone",
+    "procedure_code": "MO028E",
+    "package_price": 4700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO028F",
+    "package_price": 8500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Docetaxel",
+    "procedure_code": "MO028A",
+    "package_price": 8800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Paclitaxel + Carboplatin",
+    "procedure_code": "MO028G",
+    "package_price": 16000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Abiraterone 1000 mg + Prednisolone 10mg daily Once every month",
+    "procedure_code": "MO028I",
+    "package_price": 14300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for B - Cell NHL - High Grade (Except Burkitt's & PCNSL)",
+    "procedure_code": "MO029A",
+    "package_price": 28900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Hodgkin's Lymphoma ABVD",
+    "procedure_code": "MO030A",
+    "package_price": 5800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Chronic Lymphocytic Leukemia L + P -- Chlorambucil, Steroids CLL",
+    "procedure_code": "MO036",
+    "package_price": 5463
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "6 Mercaptopurine 50 mg / M2 daily + Methotrexate 25 mg / M2 Weekly for 2 years",
+    "procedure_code": "MO047C",
+    "package_price": 4400
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "BFM-90, BFM-95, BFM-2000, HyperCVAD, UKALL, GMALL",
+    "procedure_code": "MO047B",
+    "package_price": 136200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "BFM-90, BFM-95, BFM-2000, HyperCVAD, UKALL, GMALL",
+    "procedure_code": "MO048A",
+    "package_price": 176000
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "BFM-90, BFM-95, BFM-2000, HyperCVAD, UKALL, GMALL",
+    "procedure_code": "MO048B",
+    "package_price": 136200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "ATO 0.15 mg / kg day 1-Day 5, day 8-12, day 15-19, day 22-26 every 56 days for 4 cycles + ATRA 45 mg / M2 day 1-Day 14 and Day 29-43 every 56 days for 4 cycles",
+    "procedure_code": "MO050A",
+    "package_price": 60500
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "ATO 0.15 mg / kg day 1-45 or 60 + ATRA 45 mg / M2 - day 1-45 or 60",
+    "procedure_code": "MO050B",
+    "package_price": 89100
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Meropenem, Imipenem, Colistin, Tigecyclin, Linezolid, Voriconazole, Caspfungin, Amphotericin - B",
+    "procedure_code": "MO051B",
+    "package_price": 86700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Langerhans Cell Histiocytosis",
+    "procedure_code": "MO054A",
+    "package_price": 27900
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "Cisplatin + Cyclophosphamide + Vincristine",
+    "procedure_code": "MO056C",
+    "package_price": 8300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Rhabdomyosarcoma",
+    "procedure_code": "MO059A",
+    "package_price": 6300
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Pediatric Lymphoblastic Lymphoma Consolidation (Phase II, CNS Therapy Reinduction)",
+    "procedure_code": "MO063A",
+    "package_price": 263700
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "PEDIATRIC-GCT/JEB Pediatric - Germ Cell Tumor / JEB",
+    "procedure_code": "MO069A",
+    "package_price": 11800
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Pediatric Hepatoblastoma Carboplatin + Cisplatin + Doxorubicin",
+    "procedure_code": "MO070A",
+    "package_price": 6200
+  },
+  {
+    "specialty": "Medical Oncology (MO)",
+    "procedure_name": "CT for Ph+ve Pediatric Acute Lymphoblastic Leukemia for adult and paediatric",
+    "procedure_code": "MO062D",
+    "package_price": 4140
+  },
+  {
+    "specialty": "Mental Disorders (MM)",
+    "procedure_name": "Mental disorders - Organic, including symptomatic",
+    "procedure_code": "MM002A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Mental Disorders (MM)",
+    "procedure_name": "Schizophrenia, schizotypal and delusional disorders",
+    "procedure_code": "MM003A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Mental Disorders (MM)",
+    "procedure_name": "Neurotic, stress-related and somatoform disorders",
+    "procedure_code": "MM004A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Mental Disorders (MM)",
+    "procedure_name": "Electro Convulsive Therapy",
+    "procedure_code": "MM006A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Mental Disorders (MM)",
+    "procedure_name": "Behavioral and motional Disorders of Childhood and Adolescence",
+    "procedure_code": "MM007A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "Basic Neonatal Care Package (Includes activities listed under Basic Neonatal care package and Kangaroo Mother Care support)",
+    "procedure_code": "MN001A",
+    "package_price": 1000
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "Babies admitted for short term care for conditions like: Mild Respiratory Distress/tachypnea, Mild encephalopathy",
+    "procedure_code": "MN002A",
+    "package_price": 4000
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "Intensive Neonatal Care Package: Babies with birthweight 1500-1799 g or Babies of any birthweight and at least one of the following conditions",
+    "procedure_code": "MN003A",
+    "package_price": 6000
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "Advanced Neonatal Care Package: Babies with birthweight of 1200-1499 g or Babies of any birthweight with at least one of the following conditions: Any condition requiring invasive ventilation longer than prescribed upper limit",
+    "procedure_code": "MN004A",
+    "package_price": 7750
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "High Risk Newborn Post Discharge Care Package (Protocol Driven)",
+    "procedure_code": "MN007A",
+    "package_price": 2400
+  },
+  {
+    "specialty": "Neo-natal Care Packages (MN)",
+    "procedure_name": "Laser Therapy for Retinopathy of Prematurity (Irrespective of no. of eyes affected) - per session",
+    "procedure_code": "MN008A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Lumbar",
+    "procedure_code": "SN005B",
+    "package_price": 36000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Occipital",
+    "procedure_code": "SN005C",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Surgery for tumour meninges",
+    "procedure_code": "SN006A",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Excision of Brain Abscess",
+    "procedure_code": "SN010A",
+    "package_price": 36000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Abscess Tapping",
+    "procedure_code": "SN011A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Parasagital",
+    "procedure_code": "SN015A",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Basal",
+    "procedure_code": "SN015B",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Stereotactic Lesioning",
+    "procedure_code": "SN016A",
+    "package_price": 60000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Trans Sphenoidal Surgery",
+    "procedure_code": "SN017A",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "External Ventricular Drainage (EVD) including antibiotics",
+    "procedure_code": "SN020A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Ventricular Puncture",
+    "procedure_code": "SN021A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Aneurysm Clipping including angiogram",
+    "procedure_code": "SN023A",
+    "package_price": 95000,
+    "implant_cost": "Clip for Aneurysm (3) - 15000",
+    "total_price": 95000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Laminectomy with Fusion and fixation",
+    "procedure_code": "SN034B",
+    "package_price": 50000,
+    "implant_cost": "Implant for Laminectomy with Fusion and fixation - 10000",
+    "total_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Neurectomy",
+    "procedure_code": "SN035A",
+    "package_price": 16000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Surgery for Spinal Canal Stenosis",
+    "procedure_code": "SN037A",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Spine - Decompression & Fusion",
+    "procedure_code": "SN038A",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Carpal Tunnel Release",
+    "procedure_code": "SN046A",
+    "package_price": 10000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Nerve Decompression",
+    "procedure_code": "SN047A",
+    "package_price": 16000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Nerve Biopsy excluding Hensens",
+    "procedure_code": "SN050A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Muscle Biopsy with report",
+    "procedure_code": "SN051A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "R. F. Lesioning For Degeneration of joints on arthritis",
+    "procedure_code": "SN059D",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Discectomy - Dorsal",
+    "procedure_code": "SN060A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Diagnostic Cerebral / Spinal Angiography (DSA - Digital Substraction Angiography)",
+    "procedure_code": "SN061A",
+    "package_price": 20800
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Moderate head injury",
+    "procedure_code": "SN063B"
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Severe head injury",
+    "procedure_code": "SN063C"
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Reexploration for Cranial / Spinal Procedures",
+    "procedure_code": "SN002A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Excision of Intracranial tumors - Subdural / Extradural haematoma",
+    "procedure_code": "SN003B",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Excision of Brain Tumor Subtentorial",
+    "procedure_code": "SN004A",
+    "package_price": 50000
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Burr hole surgery with chronic Sub Dural Haematoma",
+    "procedure_code": "SN008B",
+    "package_price": 31300
+  },
+  {
+    "specialty": "Neurosurgery (SN)",
+    "procedure_name": "Excision of Cervical Ribs",
+    "procedure_code": "SN031A",
+    "package_price": 30000,
+    "implant_cost": "Implant for Spine - Intramedullar Tumour with fixation - 30000"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Laparotomy and proceed for Ovarian Cancers. Omentomy with Bilateral Salpingo-oophorectomy",
+    "procedure_code": "SO002A",
+    "package_price": 38000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Laparotomy for broad ligament haematoma",
+    "procedure_code": "SO005A",
+    "package_price": 16000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Abdominal Myomectomy",
+    "procedure_code": "SO006A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Hysteroscopic myomectomies",
+    "procedure_code": "SO007A",
+    "package_price": 9900
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Polypectomy",
+    "procedure_code": "SO008A",
+    "package_price": 1500
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Hysteroscopic polypectomy",
+    "procedure_code": "SO009A",
+    "package_price": 7200
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Abdominal Hysterectomy",
+    "procedure_code": "SO010A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Abdominal Hysterectomy + Salpingo-oophorectomy",
+    "procedure_code": "SO010B",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Non descent vaginal hysterectomy",
+    "procedure_code": "SO074"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Surgeries for Prolapse - Sling Surgeries",
+    "procedure_code": "SO013A",
+    "package_price": 33900,
+    "implant_cost": "Sling - 5000",
+    "total_price": 33900
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Without biopsy",
+    "procedure_code": "SO016B",
+    "package_price": 6000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "With biopsy",
+    "procedure_code": "SO016A",
+    "package_price": 8000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Hysteroscopic IUCD removal",
+    "procedure_code": "SO017A"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Intrauterine transfusions",
+    "procedure_code": "SO021A",
+    "package_price": 11000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Hysteroscopic adhesiolysis",
+    "procedure_code": "SO022A",
+    "package_price": 6900
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Diagnostic / Staging laparoscopy",
+    "procedure_code": "SO039A",
+    "package_price": 9700
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Ectopic",
+    "procedure_code": "SO040A",
+    "package_price": 14000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Abdominal",
+    "procedure_code": "SO043A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Laparoscopic",
+    "procedure_code": "SO043B",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Mothers with eclampsia / imminent eclampsia / severe pre-eclampsia",
+    "procedure_code": "SO054B",
+    "package_price": 11500
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Vulvo vaginal cyst drainage",
+    "procedure_code": "SO059B",
+    "package_price": 4700
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Open",
+    "procedure_code": "SO060A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Pyometra drainage",
+    "procedure_code": "SO020A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Trans-vaginal tape",
+    "procedure_code": "SO024A",
+    "package_price": 8000,
+    "implant_cost": "Tension free Vaginal Tape"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Trans-obturator tape",
+    "procedure_code": "SO024B",
+    "package_price": 8000,
+    "implant_cost": "Trans Obturator Tape"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Sacrocolpopexy (Abdominal) Lap.",
+    "procedure_code": "SO025B"
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "LLETZ (including PAP smear and colposcopy)",
+    "procedure_code": "SO026A",
+    "package_price": 7000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Cystectomy Lap",
+    "procedure_code": "SO041A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Amniocentesis",
+    "procedure_code": "SO047A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Lap. Surgery for Endometriosis (Other than Hysterectomy)",
+    "procedure_code": "SO015A",
+    "package_price": 17400
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Hymenectomy for imperforate hymen",
+    "procedure_code": "SO029A",
+    "package_price": 3400
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Anterior & Posterior Colpoperineorrhapy",
+    "procedure_code": "SO030A",
+    "package_price": 11300
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Vaginal repair for vesico-vaginal fistula (Open)",
+    "procedure_code": "SO032A",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Rectovaginal fistula repair",
+    "procedure_code": "SO4A",
+    "package_price": 3400
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Vulvectomy simple",
+    "procedure_code": "SO035A",
+    "package_price": 20000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Abdomino Perineal repair for Mullerian Anomaly",
+    "procedure_code": "SO037A",
+    "package_price": 34700
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Colpotomy",
+    "procedure_code": "SO038A",
+    "package_price": 4900
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Electro Cauterisation / Cryo Surgery",
+    "procedure_code": "SO044A",
+    "package_price": 5700
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "MTP upto 8 weeks",
+    "procedure_code": "SO053A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "MTP 8 to 12 weeks",
+    "procedure_code": "SO053B",
+    "package_price": 7000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Secondary suturing of episiotomy",
+    "procedure_code": "SO056A",
+    "package_price": 3000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Caesarean Delivery",
+    "procedure_code": "SO057A",
+    "package_price": 12000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Biopsy- Cervical, Endometrial EA/ ECC; Vulvar; Polypectomy",
+    "procedure_code": "SO073A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Obstetrics & Gynaecology (SO)",
+    "procedure_name": "Normal vaginal delivery",
+    "procedure_code": "SO074A",
+    "package_price": 40250
+  },
+  {
+    "package_price": 7000,
+    "total_price": 7000
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Canaliculo Dacryocystorhinostomy with Silicon Tube / Stent",
+    "procedure_code": "SE010A",
+    "package_price": 8000,
+    "implant_cost": "Silicon Tube / Silicon stent - 2000",
+    "total_price": 8000
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Without Silicon Tube / Stent",
+    "procedure_code": "SE010B",
+    "package_price": 8000
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Limbal Dermoid Removal",
+    "procedure_code": "SE019A",
+    "package_price": 4000,
+    "implant_cost": "Tissue graft - Cornea / Sclera - 3000",
+    "total_price": 4000
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Cataract surgery Phaco emulsification with foldable hydrophobic acrylic",
+    "procedure_code": "SE020A",
+    "package_price": 20000,
+    "implant_cost": "Foldable hydrophobic acrylic IOL - 10000",
+    "total_price": 20000
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "EUA for Confirmation of Pediatric Glaucoma",
+    "procedure_code": "SE028A",
+    "package_price": 32900,
+    "total_price": 32900
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Orbital fracture repair under GA",
+    "procedure_code": "SE041A",
+    "package_price": 10500
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Glaucoma Surgery Cyclocryotherapy / Cyclophotocoagulation",
+    "procedure_code": "SE027A",
+    "package_price": 4700
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Squint correction Minor - upto 2 muscles",
+    "procedure_code": "SE008A",
+    "package_price": 2500
+  },
+  {
+    "specialty": "Ophthalmology (SE)",
+    "procedure_name": "Mandible Tumour Resection and reconstruction / Cancer surgery",
+    "procedure_code": "SM006A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Small bone",
+    "procedure_code": "SB005B",
+    "package_price": 14500,
+    "implant_cost": "External Fixator - 5000",
+    "total_price": 14500
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Pelvis",
+    "procedure_code": "SB005C",
+    "package_price": 19000,
+    "implant_cost": "Implant for Ankle Fracture ORIF (Tension Band Wire + Plate) - 5000",
+    "total_price": 19000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Cervical spine fixation including odontoid",
+    "procedure_code": "SB021A",
+    "package_price": 55000,
+    "implant_cost": "Implant for Cervical spine fixation - 15000",
+    "total_price": 55000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Arthorotomy of any joint",
+    "procedure_code": "SB024A",
+    "package_price": 14000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Elbow",
+    "procedure_code": "SB025A",
+    "package_price": 15000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Hind quarter",
+    "procedure_code": "SB027A",
+    "package_price": 40000,
+    "total_price": 40000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Bone Tumour (benign) curettage / Excision and bone grafting",
+    "procedure_code": "SB042A",
+    "package_price": 30000,
+    "implant_cost": "Bone Graft - 5000",
+    "total_price": 30000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Below Knee",
+    "procedure_code": "SB043D",
+    "package_price": 15000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Foot",
+    "procedure_code": "SB043E",
+    "package_price": 15000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Below Elbow",
+    "procedure_code": "SB044B",
+    "package_price": 23200
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Above Knee",
+    "procedure_code": "SB044C",
+    "package_price": 2320
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "K - Wire",
+    "procedure_code": "SB070A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Screw",
+    "procedure_code": "SB070B",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Arthroscopy / open - synovectomy",
+    "procedure_code": "SB074A",
+    "package_price": 10000,
+    "implant_cost": "TBF"
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Bone grafting for Fracture Non union",
+    "procedure_code": "SB023A",
+    "package_price": 18600
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Mandatory Documents (Claim Processing): Post Procedure clinical photgraph, detailed Procedure / Operative Notes, detailed discharge summary [52 of fresh tendon injury / transfer**",
+    "procedure_code": "SB065A",
+    "package_price": 13000
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Limb Lengthening / Bone Transport by Ilizarov",
+    "procedure_code": "SB059A",
+    "package_price": 23700,
+    "implant_cost": "Implant for Limb Lengthening / Bone Transport by Ilizarov - 10000"
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Total Hip Replacement Revision - Total Hip Replacement",
+    "procedure_code": "SB038D",
+    "package_price": 78600
+  },
+  {
+    "specialty": "Orthopaedics (SB)",
+    "procedure_name": "Revision of failed hemi Arthroplasty in to THR",
+    "procedure_code": "SB079A",
+    "package_price": 65700,
+    "implant_cost": "Implant for Total Hip Replacement - 40,250"
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Transplant surgery, including",
+    "procedure_code": "OT001A",
+    "package_price": 360000,
+    "implant_cost": "Transplant Kidney - 0",
+    "total_price": 250000
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Febrile seizures",
+    "procedure_code": "MP001A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Metabolic encephalopathy",
+    "procedure_code": "MP005E",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Chronic cough",
+    "procedure_code": "MP019A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Steven Johnson syndrome",
+    "procedure_code": "MP020B",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Wilson’s disease",
+    "procedure_code": "MP037A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Cyanotic spells with Chest infection",
+    "procedure_code": "MP040C",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Juvenile myasthenia- requiring admission for work-up or in-patient care",
+    "procedure_code": "MP015A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Acute glomerulonephritis",
+    "procedure_code": "MP025A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Thalassemia",
+    "procedure_code": "MP049A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Organ & Tissue Transplant (OT)",
+    "procedure_name": "Cerebral herniation",
+    "procedure_code": "MP012",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Anti GERD Surgery",
+    "procedure_code": "SS003A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Surgery for Hirschsprung’s Disease Myectomy",
+    "procedure_code": "SS008A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Abd - Perineal PSARP",
+    "procedure_code": "SS010A"
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Surgery for Congenital Lobar Emphysema",
+    "procedure_code": "SS018A",
+    "package_price": 25000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Biopsy Lymph Node",
+    "procedure_code": "SG096A",
+    "package_price": 5000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Biopsy Endometrial Aspiration",
+    "procedure_code": "SG096B",
+    "package_price": 2000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "**Bi",
+    "procedure_code": "SS036A",
+    "package_price": 41300
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "APPENDICO-VESICOSTOMY/Mitraffanof Appendicovesicostomy or Monti procedure",
+    "procedure_code": "SS037A",
+    "package_price": 40000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Palliative nerurosurgical interventions for secondary vertebral and brain metastasis",
+    "procedure_code": "PM008A",
+    "package_price": 66000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Hiccups in Palliative care",
+    "procedure_code": "PM014A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Palliative care in Trismus mucositis",
+    "procedure_code": "PM020A",
+    "package_price": 1800
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Vertebroplasty/Kyphoplasty",
+    "procedure_code": "PM033A",
+    "package_price": 44000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Diabetic Foot – Surgery",
+    "procedure_code": "SP002A",
+    "package_price": 30000
+  },
+  {
+    "specialty": "Paediatric Surgery (SS)",
+    "procedure_name": "Tissue Expander Insertion",
+    "procedure_code": "SP007A",
+    "package_price": 20000
+  }
+]
